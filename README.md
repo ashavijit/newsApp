@@ -33,7 +33,7 @@ Contributions are always welcome!
 Clone the project
 
 ```bash
-  git clone https://github.com/0Pixel0/news-monk
+  git clone https://github.com/ashavijit/newsApp
 ```
 
 Go to the project directory
