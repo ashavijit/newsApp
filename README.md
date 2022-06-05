@@ -1,5 +1,5 @@
 
-# Newsmonk
+# Newsapp
  A Reactjs web App to get daily news including categories.
  
 ## Acknowledgements
