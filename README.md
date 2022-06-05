@@ -10,7 +10,7 @@
 
 ## Authors
 
-- [@0Pixel0](https://www.github.com/0Pixel0)
+- [@ashavijit](https://www.github.com/ashavijit)
 
 
 ## Contributing
@@ -22,13 +22,10 @@ Contributions are always welcome!
 
 ## Tech Stack
 
-**Client:** React ,Bootstrap.
+**Client:** ReactJS ,Bootstrap.
 
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/0Pixel0/news-monk/blob/master/public/Screenshot%202022-03-20%20at%205.21.11%20PM.png)
 
 
 ## Run Locally
@@ -60,9 +57,6 @@ Start the server
 
 ## Deployment
 
-Project cant be deployed due to API constraints.
-## Support
 
-For support, email ashutoshpunia690@gmail.com
 
 
