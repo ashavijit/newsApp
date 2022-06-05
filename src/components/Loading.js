@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import loadingGIF from "./l.gif"
+import loadingGIF from "./infinity-1s-200px.gif"
 export class Loading extends Component {
   render() {
     return (
